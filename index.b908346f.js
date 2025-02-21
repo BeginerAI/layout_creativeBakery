@@ -1,0 +1,2 @@
+window.addEventListener("load",()=>{let e=document.body,d=document.createElement("div");d.classList.add("load__animation");let t=document.createElement("div");t.classList.add("circle"),d.appendChild(t),e.appendChild(d),setTimeout(()=>{let e=document.querySelector(".main__content");d.style.display="none",e.classList.remove("hiden"),e.classList.add("show")},1500)});
+//# sourceMappingURL=index.b908346f.js.map
